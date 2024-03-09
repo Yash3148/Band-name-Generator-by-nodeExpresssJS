@@ -30,8 +30,8 @@ Customize
 Feel free to customize the Band Name Generator by modifying the code to add more features or tweak the algorithm for generating names.
 
 Resources
-Node.js
-Express.js Documentation
+[Node.js](https://nodejs.org/en)
+[Express.js Documentation](https://expressjs.com/)
 Explore the code and have a blast generating awesome band names! If you have any questions or suggestions, feel free to contribute or reach out to us.
 
 Rock on! 🤘
