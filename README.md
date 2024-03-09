@@ -3,28 +3,21 @@ Overview
 Welcome to the Band Name Generator powered by Node.js and Express.js! This simple web application helps you come up with cool and unique band names with just a click.
 
 Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/Band-Name-Generator-by-NodeExpressJS.git
-Navigate to the project directory:
+1. Clone the repository:
+git clone(https://github.com/Yash3148/Band-name-Generator-by-nodeExpresssJS.git)
 
-bash
-Copy code
+2. Navigate to the project directory:
 cd Band-Name-Generator-by-NodeExpressJS
-Install dependencies:
 
-bash
-Copy code
+3. Install dependencies:
 npm install
-Getting Started
-Run the application:
 
-bash
-Copy code
-node app.js
-Open your browser and visit http://localhost:3000 to access the Band Name Generator.
+Getting Started
+1. Run the application:
+nodemon index.js
+
+2. Open your browser and visit http://localhost:3000 to access the Band Name Generator.
 
 Features
 Generate Band Names
