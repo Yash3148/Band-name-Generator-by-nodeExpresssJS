@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Yash Singh",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
